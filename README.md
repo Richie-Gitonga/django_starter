@@ -2,7 +2,7 @@
 Download zip file or <br>
 Clone with git + remove git folder
 ```
-git clone https://github.com/Richie-Gitonga/django-starter.git . && rm -rf .git
+git clone git@github.com:Richie-Gitonga/django_starter.git . && rm -rf .git
 ```
 <br><br><br>
 
